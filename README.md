@@ -24,3 +24,4 @@ go get github.com/gorilla/mux gopkg.in/mgo.v2 github.com/BurntSushi/toml
 $ git clone https://github.com/nandakumar111/mongo-golang.git
 $ go run registry.go
 ```
+# Loading..!! (push will soon) :P
